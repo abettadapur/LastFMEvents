@@ -8,7 +8,6 @@ C:\Users\Alex\Documents\Visual Studio 2012\Projects\LastFMEvents\LastFMEvents\bi
 C:\Users\Alex\Documents\Visual Studio 2012\Projects\LastFMEvents\LastFMEvents\bin\ARM\Debug\Callisto.dll
 C:\Users\Alex\Documents\Visual Studio 2012\Projects\LastFMEvents\LastFMEvents\bin\ARM\Debug\HtmlAgilityPack.dll
 C:\Users\Alex\Documents\Visual Studio 2012\Projects\LastFMEvents\LastFMEvents\bin\ARM\Debug\MusicInformation.dll
-C:\Users\Alex\Documents\Visual Studio 2012\Projects\LastFMEvents\LastFMEvents\bin\ARM\Debug\Newtonsoft.Json.dll
 C:\Users\Alex\Documents\Visual Studio 2012\Projects\LastFMEvents\LastFMEvents\bin\ARM\Debug\MusicInformation.pdb
 C:\Users\Alex\Documents\Visual Studio 2012\Projects\LastFMEvents\LastFMEvents\bin\ARM\Debug\MusicInformation.pri
 C:\Users\Alex\Documents\Visual Studio 2012\Projects\LastFMEvents\LastFMEvents\bin\ARM\Debug\HtmlAgilityPack.pdb
@@ -46,3 +45,7 @@ C:\Users\Alex\Documents\Visual Studio 2012\Projects\LastFMEvents\LastFMEvents\ob
 C:\Users\Alex\Documents\Visual Studio 2012\Projects\LastFMEvents\LastFMEvents\obj\ARM\Debug\LanguageQualifiers.txt
 C:\Users\Alex\Documents\Visual Studio 2012\Projects\LastFMEvents\LastFMEvents\obj\ARM\Debug\HtmlAgilityPack.pri.xml
 C:\Users\Alex\Documents\Visual Studio 2012\Projects\LastFMEvents\LastFMEvents\obj\ARM\Debug\ProjectArchitectures.txt
+C:\Users\Alex\Documents\Visual Studio 2012\Projects\LastFMEvents\LastFMEvents\obj\ARM\Debug\priconfig.xml.intermediate
+C:\Users\Alex\Documents\Visual Studio 2012\Projects\LastFMEvents\LastFMEvents\obj\ARM\Debug\layout.resfiles.intermediate
+C:\Users\Alex\Documents\Visual Studio 2012\Projects\LastFMEvents\LastFMEvents\obj\ARM\Debug\resources.resfiles.intermediate
+C:\Users\Alex\Documents\Visual Studio 2012\Projects\LastFMEvents\LastFMEvents\obj\ARM\Debug\pri.resfiles.intermediate

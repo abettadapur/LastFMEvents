@@ -1,2 +1,2 @@
-C:\Users\Alex\documents\visual studio 2012\Projects\LastFMEvents\LastFMEvents\LastFMEvents.csproj;arm
-C:\Users\Alex\Documents\Visual Studio 2012\Projects\MusicInformation\MusicInformation\MusicInformation.csproj;arm
+C:\Users\Alex\Documents\Visual Studio 2012\Projects\LastFMEvents\LastFMEvents\LastFMEvents.csproj;arm
+C:\Users\Alex\Documents\Visual Studio 2012\Projects\LastFMEvents\MusicInformation\MusicInformation.csproj;arm

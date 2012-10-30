@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2012
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LastFMEvents", "LastFMEvents\LastFMEvents.csproj", "{1CC13A85-1F85-45E6-8296-F14F87B71E64}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MusicInformation", "..\MusicInformation\MusicInformation\MusicInformation.csproj", "{16CB2AE6-A2B7-40EC-AADA-5F235808B928}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MusicInformation", "MusicInformation\MusicInformation.csproj", "{16CB2AE6-A2B7-40EC-AADA-5F235808B928}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

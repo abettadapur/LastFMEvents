@@ -7,19 +7,19 @@
     <PackageArchitecture>arm</PackageArchitecture>
   </PropertyGroup>
   <ItemGroup>
-    <AppXManifest Include="C:\Users\Alex\documents\visual studio 2012\Projects\LastFMEvents\LastFMEvents\bin\ARM\Debug\AppxManifest.xml">
+    <AppXManifest Include="C:\Users\Alex\Documents\Visual Studio 2012\Projects\LastFMEvents\LastFMEvents\bin\ARM\Debug\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
-    <AppxPackagedFile Include="C:\Users\Alex\documents\visual studio 2012\Projects\LastFMEvents\LastFMEvents\bin\ARM\Debug\LastFMEvents.exe">
+    <AppxPackagedFile Include="C:\Users\Alex\Documents\Visual Studio 2012\Projects\LastFMEvents\LastFMEvents\bin\ARM\Debug\LastFMEvents.exe">
       <PackagePath>LastFMEvents.exe</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Alex\documents\visual studio 2012\Projects\LastFMEvents\LastFMEvents\bin\ARM\Debug\LastFMEvents.pdb">
+    <AppxPackagedFile Include="C:\Users\Alex\Documents\Visual Studio 2012\Projects\LastFMEvents\LastFMEvents\bin\ARM\Debug\LastFMEvents.pdb">
       <PackagePath>LastFMEvents.pdb</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Alex\documents\visual studio 2012\Projects\MusicInformation\MusicInformation\bin\ARM\Debug\MusicInformation.pdb">
+    <AppxPackagedFile Include="C:\Users\Alex\Documents\Visual Studio 2012\Projects\LastFMEvents\MusicInformation\bin\ARM\Debug\MusicInformation.pdb">
       <PackagePath>MusicInformation.pdb</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Alex\AppData\Local\Microsoft SDKs\Windows\v8.0\ExtensionSDKs\Bing.Maps.Xaml\1.0\References\commonconfiguration\neutral\Bing.Maps.winmd">
@@ -31,7 +31,7 @@
     <AppxPackagedFile Include="C:\Users\Alex\Documents\Visual Studio 2012\Projects\LastFMEvents\packages\HtmlAgilityPack.1.4.6\lib\winrt45\HtmlAgilityPack.xml">
       <PackagePath>HtmlAgilityPack.xml</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Alex\Documents\Visual Studio 2012\Projects\MusicInformation\MusicInformation\Newtonsoft.Json.xml">
+    <AppxPackagedFile Include="C:\Users\Alex\Documents\Visual Studio 2012\Projects\LastFMEvents\LastFMEvents\bin\ARM\Debug\Newtonsoft.Json.xml">
       <PackagePath>Newtonsoft.Json.xml</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.0\ExtensionSDKs\Callisto\1.2.2\References\CommonConfiguration\neutral\Callisto.dll">
@@ -40,16 +40,16 @@
     <AppxPackagedFile Include="C:\Users\Alex\Documents\Visual Studio 2012\Projects\LastFMEvents\packages\HtmlAgilityPack.1.4.6\lib\winrt45\HtmlAgilityPack.dll">
       <PackagePath>HtmlAgilityPack.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Alex\documents\visual studio 2012\Projects\MusicInformation\MusicInformation\bin\ARM\Debug\MusicInformation.dll">
+    <AppxPackagedFile Include="C:\Users\Alex\Documents\Visual Studio 2012\Projects\LastFMEvents\MusicInformation\bin\ARM\Debug\MusicInformation.dll">
       <PackagePath>MusicInformation.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Alex\Documents\Visual Studio 2012\Projects\MusicInformation\MusicInformation\Newtonsoft.Json.dll">
+    <AppxPackagedFile Include="C:\Users\Alex\Documents\Visual Studio 2012\Projects\LastFMEvents\LastFMEvents\bin\ARM\Debug\Newtonsoft.Json.dll">
       <PackagePath>Newtonsoft.Json.dll</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Alex\Documents\Visual Studio 2012\Projects\LastFMEvents\packages\HtmlAgilityPack.1.4.6\lib\winrt45\HtmlAgilityPack.pdb">
       <PackagePath>HtmlAgilityPack.pdb</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Alex\Documents\Visual Studio 2012\Projects\MusicInformation\MusicInformation\Newtonsoft.Json.pdb">
+    <AppxPackagedFile Include="C:\Users\Alex\Documents\Visual Studio 2012\Projects\LastFMEvents\LastFMEvents\bin\ARM\Debug\Newtonsoft.Json.pdb">
       <PackagePath>Newtonsoft.Json.pdb</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Alex\AppData\Local\Microsoft SDKs\Windows\v8.0\ExtensionSDKs\Bing.Maps.Xaml\1.0\Redist\commonconfiguration\ARM\Bing.Maps.dll">
@@ -280,69 +280,69 @@
     <AppxPackagedFile Include="C:\Users\Alex\AppData\Local\Microsoft SDKs\Windows\v8.0\ExtensionSDKs\Bing.Maps.Xaml\1.0\Redist\commonconfiguration\neutral\Bing.Maps\UnifiedStyle.MapStyle">
       <PackagePath>Bing.Maps\UnifiedStyle.MapStyle</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Alex\documents\visual studio 2012\Projects\LastFMEvents\LastFMEvents\Assets\Logo.png">
+    <AppxPackagedFile Include="C:\Users\Alex\Documents\Visual Studio 2012\Projects\LastFMEvents\LastFMEvents\Assets\Logo.png">
       <PackagePath>Assets\Logo.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Alex\documents\visual studio 2012\Projects\LastFMEvents\LastFMEvents\Assets\SmallLogo.png">
+    <AppxPackagedFile Include="C:\Users\Alex\Documents\Visual Studio 2012\Projects\LastFMEvents\LastFMEvents\Assets\SmallLogo.png">
       <PackagePath>Assets\SmallLogo.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Alex\documents\visual studio 2012\Projects\LastFMEvents\LastFMEvents\Assets\SplashScreen.png">
+    <AppxPackagedFile Include="C:\Users\Alex\Documents\Visual Studio 2012\Projects\LastFMEvents\LastFMEvents\Assets\SplashScreen.png">
       <PackagePath>Assets\SplashScreen.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Alex\documents\visual studio 2012\Projects\LastFMEvents\LastFMEvents\Assets\StoreLogo.png">
+    <AppxPackagedFile Include="C:\Users\Alex\Documents\Visual Studio 2012\Projects\LastFMEvents\LastFMEvents\Assets\StoreLogo.png">
       <PackagePath>Assets\StoreLogo.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Alex\documents\visual studio 2012\Projects\LastFMEvents\LastFMEvents\LastFMEvent150.png">
+    <AppxPackagedFile Include="C:\Users\Alex\Documents\Visual Studio 2012\Projects\LastFMEvents\LastFMEvents\LastFMEvent150.png">
       <PackagePath>LastFMEvent150.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Alex\documents\visual studio 2012\Projects\LastFMEvents\LastFMEvents\LastFMEvent30.png">
+    <AppxPackagedFile Include="C:\Users\Alex\Documents\Visual Studio 2012\Projects\LastFMEvents\LastFMEvents\LastFMEvent30.png">
       <PackagePath>LastFMEvent30.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Alex\documents\visual studio 2012\Projects\LastFMEvents\LastFMEvents\LastFMEventFullSize150.png">
+    <AppxPackagedFile Include="C:\Users\Alex\Documents\Visual Studio 2012\Projects\LastFMEvents\LastFMEvents\LastFMEventFullSize150.png">
       <PackagePath>LastFMEventFullSize150.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Alex\documents\visual studio 2012\Projects\LastFMEvents\LastFMEvents\LastFMEventFullSize24.png">
+    <AppxPackagedFile Include="C:\Users\Alex\Documents\Visual Studio 2012\Projects\LastFMEvents\LastFMEvents\LastFMEventFullSize24.png">
       <PackagePath>LastFMEventFullSize24.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Alex\documents\visual studio 2012\Projects\LastFMEvents\LastFMEvents\LastFMEventFullSize30.png">
+    <AppxPackagedFile Include="C:\Users\Alex\Documents\Visual Studio 2012\Projects\LastFMEvents\LastFMEvents\LastFMEventFullSize30.png">
       <PackagePath>LastFMEventFullSize30.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Alex\documents\visual studio 2012\Projects\LastFMEvents\LastFMEvents\LastFMEventFullSize50.png">
+    <AppxPackagedFile Include="C:\Users\Alex\Documents\Visual Studio 2012\Projects\LastFMEvents\LastFMEvents\LastFMEventFullSize50.png">
       <PackagePath>LastFMEventFullSize50.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Alex\documents\visual studio 2012\Projects\LastFMEvents\LastFMEvents\LastFMEventFullSizeWide150.png">
+    <AppxPackagedFile Include="C:\Users\Alex\Documents\Visual Studio 2012\Projects\LastFMEvents\LastFMEvents\LastFMEventFullSizeWide150.png">
       <PackagePath>LastFMEventFullSizeWide150.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Alex\documents\visual studio 2012\Projects\LastFMEvents\LastFMEvents\LastFMEventFullSizeWide300.png">
+    <AppxPackagedFile Include="C:\Users\Alex\Documents\Visual Studio 2012\Projects\LastFMEvents\LastFMEvents\LastFMEventFullSizeWide300.png">
       <PackagePath>LastFMEventFullSizeWide300.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Alex\documents\visual studio 2012\Projects\LastFMEvents\LastFMEvents\Common\ReadMe.txt">
+    <AppxPackagedFile Include="C:\Users\Alex\Documents\Visual Studio 2012\Projects\LastFMEvents\LastFMEvents\Common\ReadMe.txt">
       <PackagePath>Common\ReadMe.txt</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Alex\documents\visual studio 2012\Projects\LastFMEvents\LastFMEvents\bin\ARM\Debug\App.xaml">
+    <AppxPackagedFile Include="C:\Users\Alex\Documents\Visual Studio 2012\Projects\LastFMEvents\LastFMEvents\bin\ARM\Debug\App.xaml">
       <PackagePath>App.xaml</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Alex\documents\visual studio 2012\Projects\LastFMEvents\LastFMEvents\bin\ARM\Debug\ArtistDetailPage.xaml">
+    <AppxPackagedFile Include="C:\Users\Alex\Documents\Visual Studio 2012\Projects\LastFMEvents\LastFMEvents\bin\ARM\Debug\ArtistDetailPage.xaml">
       <PackagePath>ArtistDetailPage.xaml</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Alex\documents\visual studio 2012\Projects\LastFMEvents\LastFMEvents\bin\ARM\Debug\Common\StandardStyles.xaml">
+    <AppxPackagedFile Include="C:\Users\Alex\Documents\Visual Studio 2012\Projects\LastFMEvents\LastFMEvents\bin\ARM\Debug\Common\StandardStyles.xaml">
       <PackagePath>Common\StandardStyles.xaml</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Alex\documents\visual studio 2012\Projects\LastFMEvents\LastFMEvents\bin\ARM\Debug\HomePage.xaml">
+    <AppxPackagedFile Include="C:\Users\Alex\Documents\Visual Studio 2012\Projects\LastFMEvents\LastFMEvents\bin\ARM\Debug\HomePage.xaml">
       <PackagePath>HomePage.xaml</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Alex\documents\visual studio 2012\Projects\LastFMEvents\LastFMEvents\bin\ARM\Debug\SearchResultsPage1.xaml">
+    <AppxPackagedFile Include="C:\Users\Alex\Documents\Visual Studio 2012\Projects\LastFMEvents\LastFMEvents\bin\ARM\Debug\SearchResultsPage1.xaml">
       <PackagePath>SearchResultsPage1.xaml</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Alex\documents\visual studio 2012\Projects\LastFMEvents\LastFMEvents\bin\ARM\Debug\VenuePage.xaml">
+    <AppxPackagedFile Include="C:\Users\Alex\Documents\Visual Studio 2012\Projects\LastFMEvents\LastFMEvents\bin\ARM\Debug\VenuePage.xaml">
       <PackagePath>VenuePage.xaml</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Alex\documents\visual studio 2012\Projects\LastFMEvents\LastFMEvents\bin\ARM\Debug\resources.pri">
+    <AppxPackagedFile Include="C:\Users\Alex\Documents\Visual Studio 2012\Projects\LastFMEvents\LastFMEvents\bin\ARM\Debug\resources.pri">
       <PackagePath>resources.pri</PackagePath>
     </AppxPackagedFile>
   </ItemGroup>
