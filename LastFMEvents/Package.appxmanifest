@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Package xmlns="http://schemas.microsoft.com/appx/2010/manifest">
+  <Identity Name="38850GridWorksApplication.LocalGigs" Publisher="CN=26F99B6E-5591-410F-AF6D-3DC96BD0E7C7" Version="1.0.0.3" />
+  <Properties>
+    <DisplayName>Local Gigs</DisplayName>
+    <PublisherDisplayName>GridWorks Applications</PublisherDisplayName>
+    <Logo>LastFMEventFullSize50.png</Logo>
+  </Properties>
+  <Prerequisites>
+    <OSMinVersion>6.2.1</OSMinVersion>
+    <OSMaxVersionTested>6.2.1</OSMaxVersionTested>
+  </Prerequisites>
+  <Resources>
+    <Resource Language="x-generate" />
+  </Resources>
+  <Applications>
+    <Application Id="App" Executable="$targetnametoken$.exe" EntryPoint="LastFMEvents.App">
+      <VisualElements DisplayName="Local Gigs" Logo="LastFMEventFullSize150.png" SmallLogo="LastFMEventFullSize30.png" Description="Local Gigs" ForegroundText="light" BackgroundColor="#004c9a">
+        <DefaultTile ShowName="allLogos" WideLogo="LastFMEventFullSizeWide150.png" />
+        <SplashScreen Image="LastFMEventFullSizeWide300.png" />
+      </VisualElements>
+      <Extensions>
+        <Extension Category="windows.search" />
+      </Extensions>
+    </Application>
+  </Applications>
+  <Capabilities>
+    <Capability Name="internetClient" />
+    <DeviceCapability Name="location" />
+  </Capabilities>
+</Package>

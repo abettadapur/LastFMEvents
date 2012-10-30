@@ -1,0 +1,114 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>ALEX-PC</Machine>
+    <WindowsUser>Alex</WindowsUser>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <RegisteredManifestChecksum>C93EFB8C866CAEDD3F750269CCB59D2100E12DE0039670A448F7C7778610A281</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>31600d3a-b22f-49d5-9438-679213a998fd_1.0.0.0_neutral__cb1hhkscw5m06</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>31600d3a-b22f-49d5-9438-679213a998fd_cb1hhkscw5m06!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>31600d3a-b22f-49d5-9438-679213a998fd</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=Alex</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\Alex\documents\visual studio 2012\Projects\LastFMEvents\LastFMEvents\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-10-03T00:37:51.132</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\Alex\documents\visual studio 2012\Projects\LastFMEvents\LastFMEvents\bin\Debug\LastFMEvents.exe">
+      <PackagePath>LastFMEvents.exe</PackagePath>
+      <Modified>2012-10-03T00:38:53.657</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Alex\documents\visual studio 2012\Projects\LastFMEvents\LastFMEvents\bin\Debug\LastFMEvents.pdb">
+      <PackagePath>LastFMEvents.pdb</PackagePath>
+      <Modified>2012-10-03T00:38:53.637</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Alex\documents\visual studio 2012\Projects\MusicInformation\MusicInformation\bin\Debug\MusicInformation.pdb">
+      <PackagePath>MusicInformation.pdb</PackagePath>
+      <Modified>2012-10-02T22:43:38.405</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Alex\documents\visual studio 2012\Projects\LastFMEvents\packages\HtmlAgilityPack.1.4.6\lib\winrt45\HtmlAgilityPack.dll">
+      <PackagePath>HtmlAgilityPack.dll</PackagePath>
+      <Modified>2012-10-02T21:55:51.167</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Alex\documents\visual studio 2012\Projects\MusicInformation\MusicInformation\bin\Debug\MusicInformation.dll">
+      <PackagePath>MusicInformation.dll</PackagePath>
+      <Modified>2012-10-02T22:43:38.427</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Alex\documents\visual studio 2012\Projects\MusicInformation\MusicInformation\Newtonsoft.Json.dll">
+      <PackagePath>Newtonsoft.Json.dll</PackagePath>
+      <Modified>2012-10-02T14:32:22.428</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Alex\documents\visual studio 2012\Projects\LastFMEvents\packages\HtmlAgilityPack.1.4.6\lib\winrt45\HtmlAgilityPack.pdb">
+      <PackagePath>HtmlAgilityPack.pdb</PackagePath>
+      <Modified>2012-10-02T21:55:51.169</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Alex\documents\visual studio 2012\Projects\MusicInformation\MusicInformation\Newtonsoft.Json.pdb">
+      <PackagePath>Newtonsoft.Json.pdb</PackagePath>
+      <Modified>2012-10-02T14:32:22.452</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Alex\documents\visual studio 2012\Projects\LastFMEvents\packages\HtmlAgilityPack.1.4.6\lib\winrt45\HtmlAgilityPack.xml">
+      <PackagePath>HtmlAgilityPack.xml</PackagePath>
+      <Modified>2012-10-02T21:55:51.174</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Alex\documents\visual studio 2012\Projects\MusicInformation\MusicInformation\Newtonsoft.Json.xml">
+      <PackagePath>Newtonsoft.Json.xml</PackagePath>
+      <Modified>2012-10-02T14:32:22.371</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Alex\documents\visual studio 2012\Projects\LastFMEvents\LastFMEvents\Assets\Logo.png">
+      <PackagePath>Assets\Logo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-03-16T03:42:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Alex\documents\visual studio 2012\Projects\LastFMEvents\LastFMEvents\Assets\SmallLogo.png">
+      <PackagePath>Assets\SmallLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-03-16T03:42:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Alex\documents\visual studio 2012\Projects\LastFMEvents\LastFMEvents\Assets\SplashScreen.png">
+      <PackagePath>Assets\SplashScreen.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-03-16T03:42:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Alex\documents\visual studio 2012\Projects\LastFMEvents\LastFMEvents\Assets\StoreLogo.png">
+      <PackagePath>Assets\StoreLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-03-16T03:42:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Alex\documents\visual studio 2012\Projects\LastFMEvents\LastFMEvents\Common\ReadMe.txt">
+      <PackagePath>Common\ReadMe.txt</PackagePath>
+      <Modified>2012-10-02T15:08:05.453</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Alex\documents\visual studio 2012\Projects\LastFMEvents\LastFMEvents\bin\Debug\App.xaml">
+      <PackagePath>App.xaml</PackagePath>
+      <Modified>2012-10-02T22:04:13.314</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Alex\documents\visual studio 2012\Projects\LastFMEvents\LastFMEvents\bin\Debug\ArtistDetailPage.xaml">
+      <PackagePath>ArtistDetailPage.xaml</PackagePath>
+      <Modified>2012-10-03T00:37:49.405</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Alex\documents\visual studio 2012\Projects\LastFMEvents\LastFMEvents\bin\Debug\Common\StandardStyles.xaml">
+      <PackagePath>Common\StandardStyles.xaml</PackagePath>
+      <Modified>2012-10-02T20:12:56.868</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Alex\documents\visual studio 2012\Projects\LastFMEvents\LastFMEvents\bin\Debug\HomePage.xaml">
+      <PackagePath>HomePage.xaml</PackagePath>
+      <Modified>2012-10-02T19:41:42.051</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Alex\documents\visual studio 2012\Projects\LastFMEvents\LastFMEvents\bin\Debug\SearchResultsPage1.xaml">
+      <PackagePath>SearchResultsPage1.xaml</PackagePath>
+      <Modified>2012-10-02T20:08:35.746</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Alex\documents\visual studio 2012\Projects\LastFMEvents\LastFMEvents\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2012-10-02T21:57:04.193</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>
